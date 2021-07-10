@@ -5,7 +5,10 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version - 3.0.1
+* Rails version - 6.1
+* Database - Postgresql 12
+* Built through ReactJS Webpacker
 
 * System dependencies
 
